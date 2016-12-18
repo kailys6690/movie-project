@@ -1,8 +1,17 @@
 div.content {
     font-size: 20px;
-    background-color: 
 }
 
 h1 {
-    color: red;
+    color: White;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    font-family: 'Oleo Script', cursive;
+}
+
+body {
+    background-image: url(background3.jpg);
+
 }
