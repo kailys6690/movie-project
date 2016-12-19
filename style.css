@@ -1,5 +1,5 @@
 .div.content {
-    font-size: 50px;
+    font-size: 30px;
     width: 700px;
     margin: auto;
 }
@@ -30,7 +30,7 @@ body {
 
 p {
     font-family: 'Khand', sans-serif;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 #boxing {
@@ -40,4 +40,13 @@ p {
 
 #xavier {
     float:right;
+}
+
+#kaily {
+     -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
 }
