@@ -16,6 +16,7 @@ h3 {
 
 body {
     background-image: url(background3.jpg);
+    
 }
 
 .form {
@@ -30,3 +31,11 @@ p {
     font-family: 'Khand', sans-serif;
 }
 
+#boxing {
+    float: right;
+    position: relative;
+}
+
+#xavier {
+    float:right;
+}
